@@ -115,6 +115,6 @@ This project is licensed under the **MIT License** – meaning you're free to us
 
 ## 🙌 Credits
 
-Built with 💻 by Ritika,Rekha. APIs powered by the Rover backend team.
+Built with 💻 by Ritika @Esdeath4l ,Rekha @uvan dhamain. APIs powered by the Rover backend team.
 
 ---
